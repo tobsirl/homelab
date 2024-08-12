@@ -15,3 +15,7 @@
 - 4 x USB 3.2 type A
 - Wifi6
 - Bluetooth5.2
+
+---
+
+### Pictures
