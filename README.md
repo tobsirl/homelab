@@ -23,3 +23,5 @@
 ![Front I/O](https://github.com/user-attachments/assets/c9d1db2e-30eb-409e-8faf-e54b44e15832)
 
 ![Back I/O](https://github.com/user-attachments/assets/2ad3e1e9-aeb7-4084-9f1e-787ca430083a)
+
+fix assests
