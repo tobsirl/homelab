@@ -19,7 +19,3 @@
 ---
 
 ### Pictures
-
-![Front I/O](https://github.com/user-attachments/assets/730096c5-9657-4fc8-a0d7-463d9c797fb2)
-
-![Back I/O](https://github.com/user-attachments/assets/2ad3e1e9-aeb7-4084-9f1e-787ca430083a)
