@@ -21,3 +21,4 @@
 ### Pictures
 
 <img src="/images/1_b15cc9d9-2b29-4ee7-a370-0c6f577e3f30.jpg" alt="UM690S" width="400"/>
+<img src="/images/3_869999e8-1a45-466a-ba7a-988bc3486d59.jpg" alt="UM690S" width="400"/>
