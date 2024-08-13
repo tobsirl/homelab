@@ -19,3 +19,5 @@
 ---
 
 ### Pictures
+
+<img src="/images/1_b15cc9d9-2b29-4ee7-a370-0c6f577e3f30.jpg" alt="drawing" width="200"/>
