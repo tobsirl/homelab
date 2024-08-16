@@ -28,3 +28,5 @@
 #### Tech used
 
 [Proxmox Virtual Environment](https://www.proxmox.com/en/)
+
+[Ubuntu Server 24.04 LTS](https://ubuntu.com/download/server)
