@@ -33,4 +33,4 @@
 
 [Proxmox VE Helper Scripts](https://tteck.github.io/Proxmox/)
 
-[Nginx Proxy Manager](https://nginxproxymanager.com/)https://nginxproxymanager.com/
+[Nginx Proxy Manager](https://nginxproxymanager.com/)
