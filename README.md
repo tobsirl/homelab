@@ -32,3 +32,5 @@
 [Ubuntu Server 24.04 LTS](https://ubuntu.com/download/server)
 
 [Proxmox VE Helper Scripts](https://tteck.github.io/Proxmox/)
+
+[Nginx Proxy Manager](https://nginxproxymanager.com/)https://nginxproxymanager.com/
