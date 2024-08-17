@@ -30,3 +30,5 @@
 [Proxmox Virtual Environment](https://www.proxmox.com/en/)
 
 [Ubuntu Server 24.04 LTS](https://ubuntu.com/download/server)
+
+[Proxmox VE Helper Scripts](https://tteck.github.io/Proxmox/)
