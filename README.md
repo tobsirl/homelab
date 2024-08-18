@@ -34,3 +34,7 @@
 [Proxmox VE Helper Scripts](https://tteck.github.io/Proxmox/)
 
 [Nginx Proxy Manager](https://nginxproxymanager.com/)
+
+#### Kubernetes
+
+[K3S](https://k3s.io/)
