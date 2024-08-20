@@ -40,3 +40,5 @@
 [K3S](https://k3s.io/)
 
 [MetalLB](https://metallb.universe.tf/)
+
+[Argo CD - Declarative GitOps CD for Kubernetes](https://argo-cd.readthedocs.io/en/stable/)
