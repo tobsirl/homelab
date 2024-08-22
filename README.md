@@ -42,3 +42,5 @@
 [MetalLB](https://metallb.universe.tf/)
 
 [Argo CD - Declarative GitOps CD for Kubernetes](https://argo-cd.readthedocs.io/en/stable/)
+
+#### Miscellaneous
