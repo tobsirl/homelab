@@ -47,4 +47,8 @@
 
 [Configure Kubernetes Monitoring with easy deployment and Helm chart](https://grafana.com/docs/grafana-cloud/monitor-infrastructure/kubernetes-monitoring/configuration/helm-chart-config/)
 
+#### Prometheus
+
+[Prometheus](https://prometheus.io/)
+
 #### Miscellaneous
